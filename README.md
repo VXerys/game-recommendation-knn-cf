@@ -250,18 +250,16 @@ def predict_rating(user_id, game_id, k=20):
 - **Rating per User** untuk memahami aktivitas pengguna
 - **Rating per Game** untuk mengidentifikasi popularitas game
   
-![alt text](image.png)
-  
-
+![image](https://github.com/user-attachments/assets/8cbd6395-6ecf-443c-a546-9e3839ab8c03)
 
 ### 🔥 Similarity Heatmap
 - **Matriks similarity** antar game populer
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/06cab685-1073-4750-a035-bda80a46ea10)
 
 - **Distribusi nilai similarity** untuk memahami pola kesamaan
   
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/88e17447-12e0-4f8c-ba10-9bedc0da1dad)
 
 - **Top similar games** untuk validasi hasil
 
@@ -270,7 +268,8 @@ def predict_rating(user_id, game_id, k=20):
 - **Tabel evaluasi** dengan berbagai nilai K
 - **Comparison metrics** (RMSE & MAE)
   
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/dd492f6c-b042-461e-904e-8dfda38750c8)
+
 
 ### 🏆 Sample Recommendations
 ```
@@ -405,5 +404,3 @@ Proyek ini memberikan pemahaman mendalam tentang:
   <p><i>Universitas Nusa Putra - Fakultas Teknik Komputer dan Desain</i></p>
   <p><strong>Machine Learning Course - Final Project 2024</strong></p>
 </div>
-
-[🔝 Back to top](#-game-recommendation-system-with-item-based-collaborative-filtering-)
