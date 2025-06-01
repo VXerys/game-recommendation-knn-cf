@@ -9,13 +9,21 @@
 
 ---
 
+## 🔗 Demo Aplikasi
+
+Untuk mencoba sistem rekomendasi game secara interaktif, silakan kunjungi tautan berikut:
+
+**[▶️ Coba Demo Aplikasi Streamlit](https://game-recommender-knn.streamlit.app/)**
+
+Di halaman demo, Anda dapat memilih game dari daftar atau mengetikkan nama game yang diinginkan, lalu klik tombol “Tampilkan Rekomendasi” untuk melihat daftar rekomendasi game beserta skor similarity-nya.
+
 ## 👥 Tim Pengembang
 
 **Kelas: TI23A - Proyek Akhir Mata Kuliah Machine Learning**
 
 | Nama Lengkap | NIM | Role |
 |--------------|-----|------|
-| M. Sechan Alfarisi | 20230040094 | Mengembangkan kode utama & dokumentasi proyek di GitHub  |
+| M. Sechan Alfarisi | 20230040094 | Mengembangkan kode utama, buat demo streamlit & dokumentasi proyek di GitHub  |
 | Desti | 2023110002 |Menulis laporan & memahami detail matematika di balik algoritma untuk keperluan presentasi |
 | Tasya | 2023110004 | Menulis laporan & menyusun materi presentasi (PPT) |
 | Sinar | 2023110005 | Menulis laporan & menyusun materi presentasi (PPT) |
