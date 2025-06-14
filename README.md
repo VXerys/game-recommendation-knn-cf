@@ -13,7 +13,7 @@
 
 Untuk mencoba sistem rekomendasi game secara interaktif, silakan kunjungi tautan berikut:
 
-**[▶️ Coba Demo Aplikasi Streamlit](https://game-recommender-knn.streamlit.app/)**
+**[▶️ Coba Demo Aplikasi Streamlit](https://recommender-game-kel-1.streamlit.app/)**
 
 Di halaman demo, Anda dapat memilih game dari daftar atau mengetikkan nama game yang diinginkan, lalu klik tombol “Tampilkan Rekomendasi” untuk melihat daftar rekomendasi game beserta skor similarity-nya.
 
